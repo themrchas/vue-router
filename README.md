@@ -24,7 +24,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Passing (muliple) parameters in url
 - Binding a route to a link
 - Accessing browser's history 
-- Setting up a 404 redirect page for non-martched URLs
+- Setting up a 404 redirect page for non-matched URLs
 - Grabbing route params as props in a template
 - Moving forward and backward using $router object
 

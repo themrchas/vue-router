@@ -27,3 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Setting up a 404 redirect page for non-martched URLs
 - Grabbing route params as props in a template
 - Moving forward and backward using $router object
+
+### Cose is basd on Netninja Vue JS Tutorial for Beginners #8 on youtube
